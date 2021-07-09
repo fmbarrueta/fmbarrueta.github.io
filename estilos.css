@@ -67,7 +67,10 @@
         }
     .footer{
         background: #000;
+        display: flex;
+        justify-content: center;
     }
         .pie{
             background: #e6af2e;
+            width: 300px;
         }
