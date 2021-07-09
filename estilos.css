@@ -54,13 +54,13 @@
             .navegacion{
                 background: #70a3c4;
             }
-            .aside{
-                background: #f73f52;
-                flex: 1 1 auto;
+        .aside{
+            background: #f73f52;
+            flex: 1 1 auto;
         }
-            .publicidad{
-                background:#ffea85;
-            }
+        .publicidad{
+            background:#ffea85;
+        }
     .footer{
         background: #000;
     }
